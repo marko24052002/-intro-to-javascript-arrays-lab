@@ -1,5 +1,8 @@
 
 
+
+
+
 //1.
 const foods = [];  
 
@@ -115,10 +118,10 @@ console.log ('  fizzbuzz:', fizzbuzz);
 //13
 
 const numArrays = [
-	[100, 5, 23],
-	[15, 21, 72, 9],
-	[45, 66],
-	[7, 81, 90]
+    [100, 5, 23],
+    [15, 21, 72, 9],
+    [45, 66],
+    [7, 81, 90]
 ];
 let numList=[];
 numList = numArrays[numArrays.length-1]
